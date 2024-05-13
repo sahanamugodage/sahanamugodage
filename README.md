@@ -1,5 +1,5 @@
-### Hi there 👋
- 🌱 I’m currently learning in Agraganya
+### Hi there 👋 I'm Sahna
+ 🌱 I’m currently learning in Agraganya Institute
 <!--
 **sahanamugodage/sahanamugodage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
