@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Sahna
  🌱 Hello! 👋 I'm Sahan, a 22 years old student with a passion for leveraging technology to achieve environmental sustainability. Currently, I'm pursuing advanced studies at Agraganya by Eutech, focusing on programming designed for low-carbon economy.
+
+ <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sahanamugodage" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <!--
 **sahanamugodage/sahanamugodage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
