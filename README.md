@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sahna
- 🌱 I’m currently learning in Agraganya Institute
+ 🌱 Hello! 👋 I'm Sahan, a 22 years old student with a passion for leveraging technology to achieve environmental sustainability. Currently, I'm pursuing advanced studies at Agraganya by Eutech, focusing on programming designed for low-carbon economy.
 <!--
 **sahanamugodage/sahanamugodage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
