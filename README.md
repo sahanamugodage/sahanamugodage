@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sahna
- <!--🌱 Hello! 👋 I'm Sahan, a 22 years old student with a passion for leveraging technology to achieve environmental sustainability. Currently, I'm pursuing advanced studies at Agraganya by Eutech, focusing on programming designed for low-carbon economy.-->
+🌱 Hello! 👋 I'm Sahan, a 22 years old student with a passion for leveraging technology to achieve environmental sustainability. Currently, I'm pursuing advanced studies at Agraganya by Eutech, focusing on programming designed for low-carbon economy.
 
 <h1 align="center">Hi 👋, I'm Sahan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
