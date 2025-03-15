@@ -24,19 +24,19 @@ A fingerprint-based attendance system for schools, offering real-time tracking, 
 ### ✔️ [Food Recipe Mobile App](#)  
 A mobile application that allows users to search and explore recipes using an external API, offering step-by-step cooking instructions.
 
+### ✔️ [PHP-Based DB Manager](#)  
+A tool to create databases, design tables, auto-generate forms, and export PHP code for easy form handling.
+
 ---
 
 ## 🚧 Ongoing Projects
-
-### 🔹 [PHP-Based DB Manager](#)  
-A tool to create databases, design tables, auto-generate forms, and export PHP code for easy form handling.
 
 ### 🔹 [React-Based Web Component Creator](#)  
 A drag-and-drop tool for building UI components like forms, tables, and cards, with database integration and a style editor.
 
 ---
 
-## 🌍 My Vision in Tech
+## 🌍 My Vision 
 
 > "Leveraging the power of AI and IT to develop innovative, low-carbon solutions that drive sustainability, reduce environmental impact, and shape a smarter, more efficient future for all."
 
