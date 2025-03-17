@@ -24,6 +24,9 @@ A fingerprint-based attendance system for schools, offering real-time tracking, 
 ### ✔️ [Food Recipe Mobile App](#)  
 A mobile application that allows users to search and explore recipes using an external API, offering step-by-step cooking instructions.
 
+### ✔️ [Ecommerce Web Application For Mobile Phone Selling shop](#)  
+A web-based system for tracking sales and managing online selling of mobile phones, laptops, and electronics.
+
 ### ✔️ [PHP-Based DB Manager](#)  
 A tool to create databases, design tables, auto-generate forms, and export PHP code for easy form handling.
 
