@@ -9,10 +9,10 @@ I'm Sahan, A tech enthusiast passionate about building sustainable, AI-driven so
 
 ## 🚀 Completed Projects
 
-### ✔️ [Food City Web App](#)  
+### ✔️ [Food City Web App](https://salesfood.cotdevops.com/home.php)  
 A web-based system for managing supermarket inventory, tracking sales, and streamlining store operations.
 
-### ✔️ [Task Reminder Web App](#)  
+### ✔️ [Task Reminder Web App](https://salesfood.cotdevops.com/task/main/index.php)  
 A task management application that sends automated reminders for pending tasks and deadlines.
 
 ### ✔️ [DeepFace Age Detection System](#)  
