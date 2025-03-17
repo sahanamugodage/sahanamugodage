@@ -27,7 +27,7 @@ A mobile application that allows users to search and explore recipes using an ex
 ### ✔️ [Ecommerce Web Application For Mobile Phone Selling shop](#)  
 A web-based system for tracking sales and managing online selling of mobile phones, laptops, and electronics.
 
-### ✔️ [PHP-Based DB Manager](#)  
+### ✔️ [PHP-Based DB Manager](https://github.com/sahanamugodage/Collection-Creator.git)  
 A tool to create databases, design tables, auto-generate forms, and export PHP code for easy form handling.
 
 ---
