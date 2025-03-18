@@ -36,7 +36,7 @@ A tool to create databases, design tables, auto-generate forms, and export PHP c
 
 ### 🔹 [React-Based Web Component Creator](https://youtu.be/mumiHmbThKA?si=o6qGurTgAYhtndWv)  
 A drag-and-drop tool for building UI components like forms, tables, and cards, with database integration and a style editor.
-
+more details - https://github.com/sahanamugodage/working-projects.git/canvas.md
 ---
 
 ## 🌍 My Vision 
