@@ -21,7 +21,7 @@ An AI-powered application that predicts a person’s age based on facial recogni
 ### ✔️ [Student Attendance System (Web & Mobile)](#)  
 A fingerprint-based attendance system for schools, offering real-time tracking, automated reports, and seamless web & mobile integration.
 
-### ✔️ [Food Recipe Mobile App](#)  
+### ✔️ [Food Recipe Mobile App](https://github.com/sahanamugodage/working-projects/blob/main/foodies_resipy.md)  
 A mobile application that allows users to search and explore recipes using an external API, offering step-by-step cooking instructions.
 
 ### ✔️ [Ecommerce Web Application For Mobile Phone Selling shop](#)  
