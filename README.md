@@ -6,40 +6,6 @@ I'm Sahan, A tech enthusiast passionate about building sustainable, AI-driven so
 
 [![](https://visitcount.itsvg.in/api?id=sahanamugodage&icon=3&color=0)](https://visitcount.itsvg.in)
 
-
-## 🚀 Completed Projects
-
-### ✔️ [Food City Web App](https://salesfood.cotdevops.com/home.php)  
-A web-based system for managing supermarket inventory, tracking sales, and streamlining store operations.
-
-### ✔️ [Task Reminder Web App](https://salesfood.cotdevops.com/task/main/index.php)  
-A task management application that sends automated reminders for pending tasks and deadlines.
-
-### ✔️ [DeepFace Age Detection System](https://github.com/sahanamugodage/Age-Recognition-with-DeepFace.git)  
-An AI-powered application that predicts a person’s age based on facial recognition and deep learning models.
-
-### ✔️ [Student Attendance System (Web & Mobile)](#)  
-A fingerprint-based attendance system for schools, offering real-time tracking, automated reports, and seamless web & mobile integration.
-
-### ✔️ [Food Recipe Mobile App](https://github.com/sahanamugodage/working-projects/blob/main/foodies_resipy.md)  
-A mobile application that allows users to search and explore recipes using an external API, offering step-by-step cooking instructions.
-
-### ✔️ [Ecommerce Web Application For Mobile Phone Selling shop](#)  
-A web-based system for tracking sales and managing online selling of mobile phones, laptops, and electronics.
-
-### ✔️ [PHP-Based DB Manager](https://github.com/sahanamugodage/Collection-Creator.git)  
-A tool to create databases, design tables, auto-generate forms, and export PHP code for easy form handling.
-
----
-
-## 🚧 Ongoing Projects
-
-### 🔹 [React-Based Web Component Creator](https://youtu.be/mumiHmbThKA?si=o6qGurTgAYhtndWv)  
-A drag-and-drop tool for building UI components like forms, tables, and cards, with database integration and a style editor.
-
-[![View More Details](https://img.shields.io/badge/View%20More%20Details-Click%20Here-blue?style=for-the-badge)](https://github.com/sahanamugodage/working-projects/blob/main/canvas.md)
----
-
 ## 🌍 My Vision 
 
 > "Leveraging the power of AI and IT to develop innovative, low-carbon solutions that drive sustainability, reduce environmental impact, and shape a smarter, more efficient future for all."
